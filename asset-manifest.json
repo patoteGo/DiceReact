@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DiceReact/static/css/main.6635fe8d.chunk.css",
+    "main.js": "/DiceReact/static/js/main.885153ba.chunk.js",
+    "main.js.map": "/DiceReact/static/js/main.885153ba.chunk.js.map",
+    "runtime-main.js": "/DiceReact/static/js/runtime-main.4eee01d6.js",
+    "runtime-main.js.map": "/DiceReact/static/js/runtime-main.4eee01d6.js.map",
+    "static/js/2.3db4b0b9.chunk.js": "/DiceReact/static/js/2.3db4b0b9.chunk.js",
+    "static/js/2.3db4b0b9.chunk.js.map": "/DiceReact/static/js/2.3db4b0b9.chunk.js.map",
+    "index.html": "/DiceReact/index.html",
+    "precache-manifest.fdbc988ac769d756a8000cd9ca38ced3.js": "/DiceReact/precache-manifest.fdbc988ac769d756a8000cd9ca38ced3.js",
+    "service-worker.js": "/DiceReact/service-worker.js",
+    "static/css/main.6635fe8d.chunk.css.map": "/DiceReact/static/css/main.6635fe8d.chunk.css.map",
+    "static/js/2.3db4b0b9.chunk.js.LICENSE.txt": "/DiceReact/static/js/2.3db4b0b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4eee01d6.js",
+    "static/js/2.3db4b0b9.chunk.js",
+    "static/css/main.6635fe8d.chunk.css",
+    "static/js/main.885153ba.chunk.js"
+  ]
+}
